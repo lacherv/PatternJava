@@ -1,0 +1,8 @@
+# IntelliJ
+out/
+
+# Generated files
+.idea/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
