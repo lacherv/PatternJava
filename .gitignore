@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+# IntelliJ
+out/
+
+# Generated files
+.idea/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+=======
 # Compiled class file
 *.class
 
@@ -21,3 +31,4 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+>>>>>>> 1e19f1e8985f4e32d0c1d502b23cd7e5101f46f2
